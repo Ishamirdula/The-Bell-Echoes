@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/school/DemoScene/IntroMainMenu.unity
+    guid: 8198b207c13f54d4b96c92be8bd03617
+  - enabled: 1
+    path: Assets/school/DemoScene/MainGameScene.unity
+    guid: 378551c9dbb787b4f9dd2e04ec1454e5
+  - enabled: 1
+    path: Assets/Puzzle Game/Asset/Scene/PuzzleGame.unity
+    guid: e75e9df816c9f2b4f9febab9acc68ed6
+  m_configObjects: {}
